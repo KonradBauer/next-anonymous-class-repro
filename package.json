@@ -1,0 +1,13 @@
+{
+  "name": "next-anonymous-class-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start --port 3210"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  }
+}
